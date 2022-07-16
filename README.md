@@ -15,6 +15,7 @@ You can run this app using:
 npm run dev
 ```
 
-It will host on the address that the terminal returns.
+It will host on the address that the terminal returns. 
+You can view the application in the browser.
 
 
