@@ -3,6 +3,8 @@
 This project uses Vue 3 and vue-router. You can install these by cloning this repository, and installing it in the folder using:
 ```sh
 git clone https://github.com/mandemt/frontend-opdracht-am.git
+```
+
 ```sh
 npm install
 ```
